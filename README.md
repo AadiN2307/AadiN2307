@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AadiN2307
 - 👀 I’m interested in app development 
 - 🌱 I’m currently learning iOS app development , swift, X code, DSA with C++
-- 💞️ I’m looking to collaborate on any project thatr can elevate my programming experience
-- 📫 How to reach me by aadityanaidu77@gmail.com
+- 💞️ I’m looking to collaborate on any project that can elevate my programming experience
+- 📫 Reach me by aadityanaidu77@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Marvel Fan , i love to draw and sketch 
 
